@@ -1,1 +1,2 @@
 # 3-Bit_Binary_to_Gra_-Code_Converter
+A 3-Bit Binary to Gray Code Converter is a digital circuit that converts a 3-bit binary number into its equivalent Gray code. Gray code is a special binary numbering system in which only one bit changes at a time between consecutive numbers, reducing errors in digital communication and electronic systems. The converter takes three binary inputs and produces three Gray code outputs using logic gate operations such as XOR gates.
